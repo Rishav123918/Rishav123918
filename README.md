@@ -46,9 +46,8 @@
 <img align="left" alt="React.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="CPP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="CPP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:10px;"/>
-
+<img align="left" alt="Insomnia" width="26px" src="https://th.bing.com/th/id/OIP.HiwdP55uz0AcSmmXX19aIAHaHa?w=175&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" style="padding-right:10px;"/>
 
 <!-- Divider -->
 <p align="center">
