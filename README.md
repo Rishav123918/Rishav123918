@@ -22,7 +22,7 @@
 <!-- Coding Profiles Section -->
 ## 👨‍💻 Coding Profiles :
 <a href="https://leetcode.com/Rishav_kumar_jain/" target="_blank" rel="noreferrer">
-  <img align="center" src="[https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06](https://www.bing.com/ck/a?!&&p=d4259e9fb98e7c9bJmltdHM9MTY5MTk3MTIwMCZpZ3VpZD0wOTJlM2UwMy0xNzNjLTY0NjctM2IyMS0yZmMzMTY5MTY1MzAmaW5zaWQ9NTU5NQ&ptn=3&hsh=3&fclid=092e3e03-173c-6467-3b21-2fc316916530&u=a1L2ltYWdlcy9zZWFyY2g_cT1sZWV0Y29kZSBsb2dvJkZPUk09SVFGUkJBJmlkPTIzMjhGNDVFNDA1MDZGODkxNTJFODk3NzEwMzc2NzQwOTA1QzIxMzc&ntb=1)" alt="Rishav_kumar_jain" height="30" width="140" />
+  <img align="center" src="https://th.bing.com/th?id=OIP.hSz5vzCQFic84JJfNgs1qwHaB4&w=350&h=88&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2" alt="Rishav_kumar_jain" height="30" width="140" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/rishavkumaidcg" target="_blank" rel="noreferrer">
   <img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="RishavJain" height="30" width="140" />
@@ -47,8 +47,8 @@
 <img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="CPP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="CPP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="Insomnia" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:10px;"/>
+<img align="left" alt="Insomnia" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" style="padding-right:10px;"/>
 
 <!-- Divider -->
 <p align="center">
