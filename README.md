@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">Hi 👋, I am Rishav kumar jain</h1>
-<h3 align="center">Full Stack Developer | Problem Solver | MCA24 @nitjsr </h3>
+<h3 align="center">Software engineer @TCS | Algorithm Design | Problem Solver | MCA24 @nitjsr </h3>
 
 <!-- Divider -->
 <p align="center">
@@ -9,7 +9,7 @@
 
 <!-- About Me Section -->
 ## 📝 About Me :
-- 🎓 Pursuing Masters in Computer Applications(MCA) from *NIT Jamshedpur*
+- 🎓 Masters Degree in Computer Applications(MCA) from *NIT Jamshedpur*
 - ✏️ Love solving problems
 - 🤖 Interested in Web Development , ML and Leaning Databases
 - ⚡ Fun fact: I have a passion for playing cricket and Learning New Things About New Technology
